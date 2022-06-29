@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #E1F4F3;
+}
+
+hr {
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  height: 0px;
+  width: 8%
+}
+h1 {
+  color: #3F4E4F;
+}
+h3 {
+  color: #3F4E4F;
+
+}
+ol.no-bullets {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
